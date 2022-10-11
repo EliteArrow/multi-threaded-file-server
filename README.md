@@ -7,15 +7,15 @@ Implement a multi-threaded file server that supports UPLOAD, DOWNLOAD, DELETE an
 
 - server_dir - holds files uploaded to server side
 
-Step 1:
+Step 1:<br/>
 Open one Command promt and start server using command:
 python server.py
 
-Step 2:
+Step 2:<br/>
 Open other Command prompt and perform various operation using below commands:
 
-Upload: python client.py upload Test_File.txt
-Rename: python client.py rename Test_File.txt New_Test.txt
-Download: python client.py download New_Test.txt
+Upload: python client.py upload Test_File.txt<br/>
+Rename: python client.py rename Test_File.txt New_Test.txt<br/>
+Download: python client.py download New_Test.txt<br/>
 Delte: python client.py delete New_Test.txt
 

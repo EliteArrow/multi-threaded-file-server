@@ -3,9 +3,9 @@ Implement a multi-threaded file server that supports UPLOAD, DOWNLOAD, DELETE an
 
 # Redme
 -----------------------------
-client_dir - holds files downloaded to client side
+- client_dir - holds files downloaded to client side
 
-server_dir - holds files uploaded to server side
+- server_dir - holds files uploaded to server side
 
 Step 1:
 Open Command promt and start server using command:

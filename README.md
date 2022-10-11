@@ -14,8 +14,8 @@ python server.py
 Step 2:
 Open other Command prompt and perform various operation using below commands:
 
-Upload: python client.py upload Test_File.txt\\
-Rename: python client.py rename Test_File.txt New_Test.txt\\
-Download: python client.py download New_Test.txt\\
+Upload: python client.py upload Test_File.txt
+Rename: python client.py rename Test_File.txt New_Test.txt
+Download: python client.py download New_Test.txt
 Delte: python client.py delete New_Test.txt
 

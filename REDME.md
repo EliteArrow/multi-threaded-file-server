@@ -12,7 +12,7 @@ This project is a demonstration of a multi-threaded file server using Python's s
 python server.py
 ```
 
-![Untitled](screenshots/step_1.png)
+![Untitled]([screenshots/step_1.png](https://raw.githubusercontent.com/EliteArrow/multi-threaded-file-server/main/screenshots/Step_1.png))
 
 **Step 2:** Open another command prompt and perform various operations using below commands(use file name and file extension):
 

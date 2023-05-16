@@ -22,7 +22,7 @@ python server.py
 python client.py upload file_name.txt
 ```
 
-![Untitled](screenshots/step_2_upload.png)
+![Untitled](https://raw.githubusercontent.com/EliteArrow/multi-threaded-file-server/main/screenshots/Step_2_upload.png)
 
 **Rename File:**
 
@@ -30,7 +30,7 @@ python client.py upload file_name.txt
 python client.py old_file_name.txt new_file_name.txt
 ```
 
-![Untitled](screenshots/step_2_rename.png)
+![Untitled](https://raw.githubusercontent.com/EliteArrow/multi-threaded-file-server/main/screenshots/Step_2_rename.png)
 
 **Download File:**
 
@@ -38,7 +38,7 @@ python client.py old_file_name.txt new_file_name.txt
 python client.py download file_name.txt
 ```
 
-![Untitled](screenshots/step_2_download.png)
+![Untitled](https://raw.githubusercontent.com/EliteArrow/multi-threaded-file-server/main/screenshots/Step_2_download.png)
 
 **Delete File:**
 
@@ -46,7 +46,7 @@ python client.py download file_name.txt
 python client.py delete file_name.txt
 ```
 
-![Untitled](screenshots/step_2_delete.png)
+![Untitled](https://raw.githubusercontent.com/EliteArrow/multi-threaded-file-server/main/screenshots/Step_2_delete.png)
 
 ### **Key Features**:
 
